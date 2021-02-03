@@ -1,4 +1,4 @@
-//
+/* mod_ikeda 20210202 コンフリクトのテスト  */
 //  main.c
 //  HelloWorld
 //
